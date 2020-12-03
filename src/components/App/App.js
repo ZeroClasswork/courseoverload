@@ -1,4 +1,4 @@
-import Inventory from '../Inventory/Inventory'
+import Inventory from '../Class/Inventory/Inventory'
 
 import './App.css';
 
